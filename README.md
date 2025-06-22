@@ -8,10 +8,8 @@ I'm a full-stack developer and entrepreneur building AI-powered apps — solving
 
 ## 🚀 Projects
 
-- 🔮 [Pixly.app](https://pixly.app) – AI image generator for creatives  
-- 😄 [StickerMakerAI.com](https://stickermakerai.com) – Stickers from selfies or prompts  
-- 🎥 [ManifestBoard.app](https://manifestboard.app) – AI manifesting videos  
-- 🧪 [RandomGen.org](https://randomgen.org) – Random tools to inspire and attract SEO
+- 🎨 [Pixly.app](https://pixly.app) – AI photo & video generator  
+- 🏷️ [StickerMakerAI.com](https://stickermakerai.com) – Custom AI sticker generator  
 
 ---
 
