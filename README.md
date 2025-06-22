@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jan
 
-I'm a full-stack developer and entrepreneur building AI-powered apps — solving real problems or just creating fun.
+I'm a full-stack developer and entrepreneur building AI-powered apps — solving real problems or just creating for fun.
 
 🌐 [jankratochvil.dev](https://jankratochvil.dev)
 
