@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Jan
 
-<!--
-**JanKratochvil1/jankratochvil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and entrepreneur building AI-powered web apps that solve real problems — or are just fun to use.
 
-Here are some ideas to get you started:
+🌐 Personal site → [jankratochvil.dev](https://jankratochvil.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🔮 [Pixly.app](https://pixly.app)
+Generate stunning AI images with custom styles, scenes, and characters — built for creatives and dreamers who want high-quality visuals fast.
+
+### 😄 [StickerMakerAI.com](https://stickermakerai.com)
+Create expressive sticker packs from selfies or prompts. Perfect for WhatsApp, TikTok, and Instagram.
+
+### 🎥 [ManifestBoard.app](https://manifestboard.app)
+Make personal manifesting videos starring yourself as your future self, your hero, or your dream.
+
+### 🧪 [RandomGen.org](https://randomgen.org)
+A growing collection of fun and useful random generators (names, animals, ideas...) to inspire your next move — and drive SEO.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js, Tailwind, React
+- **Backend**: FastAPI, Supabase, MongoDB
+
+---
+
+## 📫 Contact
+
+- 🧠 Portfolio: [jankratochvil.dev](https://jankratochvil.dev)
+
+---
+
+_“Build fast. Learn faster. Ship with purpose.”_
