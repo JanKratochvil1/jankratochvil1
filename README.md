@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Jan
-
-I'm a full-stack developer and entrepreneur building AI-powered apps — solving real problems or just creating for fun.
-
----
-
 ## 🚀 Projects
 
 - 🎨 [Pixly.app](https://pixly.app) – AI photo & video generator  
